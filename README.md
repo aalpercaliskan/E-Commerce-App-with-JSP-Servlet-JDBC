@@ -4,7 +4,7 @@
 <kbd>![MainPage](https://user-images.githubusercontent.com/112978786/191142544-613403e9-8be1-4808-83af-e288398481bb.jpg)</kbd>
 
 
-- Bir kategoriye ait olan ürüleri görmek için kategori seçilir:
+- Bir kategoriye ait olan ürünleri görmek için kategori seçilir:
 <kbd>![SelectCategory](https://user-images.githubusercontent.com/112978786/191142861-a89d19dd-87e6-4cf2-b80c-ebe551d5aca4.jpg)</kbd>
 
 
