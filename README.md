@@ -1,4 +1,4 @@
-# shopping-website
+# E-Commerce App
 
 - Ana sayfada tüm ürünler kategorilere göre listelenmiş şekilde gözükür:
 <kbd>![MainPage](https://user-images.githubusercontent.com/112978786/191142544-613403e9-8be1-4808-83af-e288398481bb.jpg)</kbd>
