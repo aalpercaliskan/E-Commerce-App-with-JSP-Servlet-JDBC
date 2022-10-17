@@ -24,7 +24,7 @@
 <kbd>![BackToAddCart](https://user-images.githubusercontent.com/112978786/191143734-8293279e-a97d-4f40-8c15-adb2b1ccf17d.jpg)</kbd>
 
 
-- Kullanıcı giriş yapmış olduğu için artık 'Üye Ol' ve 'Kayıt Ol' linkleri yerine 'Hesabım' ve 'Çıkış Yap' linkleri gelir:
+- Kullanıcı giriş yapmış olduğu için artık 'Giriş Yap' ve 'Üye Ol' linkleri yerine 'Hesabım' ve 'Çıkış Yap' linkleri gelir:
 <kbd>![image](https://user-images.githubusercontent.com/112978786/191143948-cb24cd62-6dc0-41d6-acaa-cef57c84b9ea.png)</kbd>
 
 
